@@ -1,4 +1,2 @@
-# uniGUIdevs
-a prototype version of food delivery app.
-it lists nutritious content, values, and locaiton using vairous API resources. 
-coded in py. 
+# Live_Nutrition_API
+An implementaiton of live API for nutritions and location value(s) retrieval. 
